@@ -1,6 +1,6 @@
 Hi!
 
-This page is inspired by [yacine's online notes page](https://yacine.ca/). It is similar in spirit. I will post thoughts and work-in-progress here, though I think anything presentable will go on my irl github page. This site is meant more as an online journal, a collection of unstructured thoughts and notes. Notes on this page will always be about the current month. For previous notes, see archives.(TODO: add link to archive page)
+This page is inspired by [yacine's page](https://yacine.ca/). It is similar in spirit. I will post thoughts and work-in-progress here, though I think anything presentable will go on my irl github page. This site is meant more as an online journal, a collection of unstructured thoughts and notes. Notes on this page will always be about the current month. For previous notes, see archives.(TODO: add link to archive page)
 
 TODO:
 - add link to notable pages on the internet
